@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![image](https://user-images.githubusercontent.com/45033564/193931163-b45ef8a2-7e15-4451-85f7-194a9492b231.png)
+![jumping fox](https://user-images.githubusercontent.com/45033564/193938137-f6c7c159-181d-44e9-8282-c4cb4619e85d.gif)
 
 <!--
 **ismet94/ismet94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
