@@ -2,6 +2,8 @@
 
 ![jumping fox](https://user-images.githubusercontent.com/45033564/193938137-f6c7c159-181d-44e9-8282-c4cb4619e85d.gif)
 
+### Stay Strong, Stay Determined!
+
 <!--
 **ismet94/ismet94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
